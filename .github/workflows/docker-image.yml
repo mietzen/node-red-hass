@@ -3,7 +3,6 @@ name: Build & Upload Docker Image
 env:
   IMAGE_NAME: node-red-hass
 
-
 on:
   pull_request:
   release:
